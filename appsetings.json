@@ -1,0 +1,13 @@
+{
+  "EventProcessor": {
+    "Iterations": 20,
+    "DelayMs": 1000
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "System": "Warning"
+    }
+  }
+}
